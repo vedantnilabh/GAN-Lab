@@ -1,1 +1,6 @@
 /models
+/models1
+/Documents
+gan.out
+job.sbatch
+main.py
