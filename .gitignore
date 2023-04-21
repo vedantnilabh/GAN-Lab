@@ -8,3 +8,5 @@ main.py
 /BaseGAN
 /ClassEmbeddingsGan
 VGG_model.h5
+
+gan2.out
