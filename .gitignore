@@ -4,3 +4,7 @@
 gan.out
 job.sbatch
 main.py
+
+/BaseGAN
+/ClassEmbeddingsGan
+VGG_model.h5
